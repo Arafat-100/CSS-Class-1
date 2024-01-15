@@ -1,0 +1,14 @@
+.mark{
+    color: white;
+    background-color: blueviolet;
+    width: 80px;
+    height: 20px;
+    line-height: 20px;
+    border-radius: 0 15px 15px 0;
+}
+.price-new{
+    color: red;
+}
+.price-old{
+    color: rgb(122, 122, 122);
+}
